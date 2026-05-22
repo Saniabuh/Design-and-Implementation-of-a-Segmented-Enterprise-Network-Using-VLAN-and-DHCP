@@ -1,8 +1,6 @@
-# Network-Design
-This is ABC Company Ltd Network design and Implementation
+# Design and Implementation of a Segmented Enterprise Network Using VLAN and DHCP
 
 **Case Study**
-
 ABC Ltd. is a fast-growing company in West Africa, Nigeria with more than 4 million customers globally. The organization deals with the buying and selling of agricultural products which are operated from headquarters. The company is planning to open a branch near the local village of Enungba. Therefore, the company requires New recruited IT engineer to design a network for the branch.  The proposed network is intended to operate separately from the headquarters network.
 
 Being a small network, the company has the following requirements during implementation
