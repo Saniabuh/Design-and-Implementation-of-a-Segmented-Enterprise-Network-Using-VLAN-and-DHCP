@@ -224,7 +224,7 @@ Step 5: IP Obtained Successfully
 
 **How Laptop Obtained IP**
 
-Step 1 : Click on the Labtop
+Step 1 : Click on the Laptop
 
 Step 2:  Change the interface to a wireless (WPC300N) interface as shown in the image below
 
